@@ -1,1 +1,2 @@
-ill be learning bootstrap so i am using the opportunity to also learn how to use git properly
+ill be learning bootstrap so i am using the opportunity to also learn how to use git properly 
+p.s: this was all done while following a coursera course,  the link to my cerificate and cthe course is available below
